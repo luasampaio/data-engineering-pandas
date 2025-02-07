@@ -14,8 +14,6 @@ Series: Estruturas unidimensionais para listas ou colunas.
 
 
 
-
-
 # Meus Contatos! 🌟
 
 Quer bater um papo, trocar ideias, ou só dar aquela stalkeada básica? Não seja tímido! Aqui estão meus canais de comunicação preferidos:
